@@ -1,0 +1,30 @@
+Name: Translations
+Id: g=0a60faaddeb504233345806d0baf84b2
+Type: FolderType
+Children:
+- Name: LocalizationDictionary1
+  Id: g=dd4ad798125fe6b34e787c12138b79c1
+  Type: LocalizationDictionary
+  DataType: String
+  ValueRank: OneOrMoreDimensions
+  ArrayDimensions: [0,0]
+  Value: 
+   {
+    "Type": 12,
+    "Dimensions": [13,2],
+    "Body": [
+     "","en-US",
+     "Acknowledge","Acknowledge",
+     "Acknowledge All","Acknowledge All",
+     "Confirm","Confirm",
+     "Confirm All","Confirm All",
+     "SourceName","Source Variable",
+     "Timestamp","Timestamp",
+     "Name","Name",
+     "Message","Message",
+     "Active","Active",
+     "Acked","Acked",
+     "Confirmed","Confirmed",
+     "Severity","Severity"
+    ]
+   }
